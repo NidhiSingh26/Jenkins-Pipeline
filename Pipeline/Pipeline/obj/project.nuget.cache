@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpWWzlzlNAYgw+B19RKAD2BBHlTEY6oL3RS7Bn66Yw9js8BxO0WS0igyCneL4zPcQMPrm0DStcirEgWAEeFXmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nidhi06\\source\\repos\\Pipeline\\Pipeline\\Pipeline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nidhi06\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
